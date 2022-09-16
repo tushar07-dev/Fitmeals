@@ -3,8 +3,10 @@
 
 This is a clone of an ecommerce website which is a project we got in our construct week of second unit in Masai school.
 
+## Link to FitMeal : https://www.fitmeals.co.in/
 
 ## Live Demo : https://fitmeals-project.netlify.app/
+
 
 ![This is an image](img.jpeg)
 ## Tech stack used :
